@@ -1,3 +1,7 @@
-# My Awesome Book
+# 概述
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+随着Web开发技术日新月异，如果你在2017年第一次接触Web开发，就会发现扑面而来的是各种各样的技术和框架，也许有如下疑问充斥着你的脑海：
+    1. 学什么？
+    2. 怎么学？
+    3. 这些框架是如何组合成一个应用的？
+    4. 先学习好JavaScript还是先学习好一个框架做出东西？
