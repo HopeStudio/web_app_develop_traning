@@ -13,7 +13,6 @@
 
 现在让我们打开[Github](https://github.com)，点击右键，选择*检查*（在有些浏览器中可能是*检查元素或其它字眼*），我们就打开了开发者调试工具，选择元素(Elements)标签，我们就看到了这个网站的HTML文件。现在，让我们在HTML代码上移动鼠标，我们就能看到一行行代码在页面中对应着什么，这对于理解HTML很有帮助，如果你对HTML是什么尚不清楚，请务必试试看。
 
-![开发者工具](http://oanr6klwj.bkt.clouddn.com/book/web_app/dev_tool.png)
 
 ## 何谓前后端
 
